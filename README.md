@@ -5,7 +5,8 @@ If you want the latest information or have questions, come to [the #local-worker
 
 # Modifications and warnings
 This repo currently works as an archived version of Haidra-Org/horde-worker-reGen as there has been no modifications.
-If using this modified horde worker, do not ask for help in the official AI Horde discord server as the modifications could cause issues not in the offical worker.
+
+If using this horde worker, do not ask for help in the official AI Horde discord server as the modifications could cause issues not in the offical worker.
 
 # AI Horde Worker reGen
 
