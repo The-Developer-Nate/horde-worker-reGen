@@ -3,8 +3,9 @@ This repository allows you to set up a modified AI Horde Worker to generate, pos
 
 If you want the latest information or have questions, come to [the #local-workers channel in discord](https://discord.com/channels/781145214752129095/1076124012305993768)
 
-# Modifications
+# Modifications and warnings
 This repo currently works as an archived version of Haidra-Org/horde-worker-reGen as there has been no modifications.
+If using this modified horde worker, do not ask for help in the official AI Horde discord server as the modifications could cause issues not in the offical worker.
 
 # AI Horde Worker reGen
 
@@ -70,7 +71,7 @@ This option is recommended as it will make keeping your repository up to date mu
 
 Use these instructions if you do not have git for windows and do not want to install it. These instructions make updating the worker a bit more difficult down the line.
 
-1. Download [the zipped version](https://github.com/Haidra-Org/horde-worker-reGen/archive/refs/heads/main.zip)
+1. Download [the zipped version](https://github.com/The-Developer-Nate/horde-worker-reGen/archive/refs/heads/main.zip)
 1. Extract it to any folder of your choice
 1. Continue with the [Basic Usage](#Basic-Usage) instructions
 
@@ -159,7 +160,7 @@ To update:
 
 
     1. delete the `horde_worker_regen/` directory from your folder
-    1. Download the [repository from github as a zip file](https://github.com/db0/horde-worker-reGen/archive/refs/heads/main.zip)
+    1. Download the [repository from github as a zip file](https://github.com/The-Developer-Nate/horde-worker-reGen/archive/refs/heads/main.zip)
     1. Extract its contents into the same the folder you have the AI Horde Worker repository installed, overwriting any existing files
 
 1. Run the `update-runtime` script for your OS. This will update all dependencies if required.
