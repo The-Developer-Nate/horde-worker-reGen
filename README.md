@@ -1,4 +1,4 @@
-This repository allows you to set up a AI Horde Worker to generate, post-process or analyze images for others
+This repository allows you to set up a modified AI Horde Worker to generate, post-process or analyze images for others
 
 
 If you want the latest information or have questions, come to [the #local-workers channel in discord](https://discord.com/channels/781145214752129095/1076124012305993768)
