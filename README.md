@@ -25,7 +25,8 @@ This repo contains the latest implementation for the [AI Horde](https://aihorde.
     - Set `queue_size: 0`
 - If you plan on running SDXL, you will need to ensure at least 9 gb of system ram remains free while the worker is running.
 - If you have an 8 gb card, SDXL will only reliably work at max_power values close to 32. 42 was too high for tests on a 2080 in certain cases.
-- The modification heavily relies on [Deno](https://deno.com/) for a web ui (configuration, viewing generated images in the past hour, and generating images on your worker)
+- This modification heavily relies on [Deno](https://deno.com/) for a web ui (configuration, viewing generated images in the past hour, and generating images on your worker)
+- This modification ONLY works on linux and is only tested on Arch Linux.
 
 ### AMD
 ~~Please note that **AMD cards are not currently well supported**, but may be in the future.~~
